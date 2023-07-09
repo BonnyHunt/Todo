@@ -1,0 +1,56 @@
+.main-changeAlert--container {
+    background: rgba(32,35,41,.9);
+    position: fixed;
+    top: -10px;
+    left: -10px;
+    right: -10px;
+    bottom: -10px;
+    z-index: 2;
+  }
+.changeAlert-container {
+    background-color: black;
+    position: fixed;
+    top: 332px;
+    left: -10px;
+    right: -10px;
+    bottom: -10px;
+}
+.changeAlert-container h2 {
+    margin: 0 auto;
+    position: fixed;
+    top: 383px;
+    left: -10px;
+    right: -10px;
+    bottom: 95px;
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+.changeAlert-container--p {
+   margin: 0 auto;
+   position: fixed;
+   top: 420px;
+   left: 10px;
+   right: 10px;
+   bottom: 55px;
+   text-align: center;
+   font-size: 14px;
+   font-weight: 500;
+   color: white;
+}
+.ChangeAlert-Btn {
+    background-color:  #61DAFA;
+    box-shadow: 0px 5px 25px rgba(97, 218, 250, 0.5);
+    border: none;
+    border-radius: 9px;
+    padding: 8px 15px 8px 15px;
+    color: white;
+    position: fixed;
+    top: 460px;
+    left: 52px;
+    right: 52px;
+    bottom: 18px;
+    font-size: 13px;
+    font-weight: 600;
+}
